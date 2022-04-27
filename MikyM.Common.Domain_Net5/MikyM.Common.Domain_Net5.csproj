@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<PackageId>MikyM.Common.Domain</PackageId>
+		<Version>1.0.3</Version>
+		<Authors>Krzysztof Kupisz</Authors>
+		<PackageDescription>Base domain for DDD architecture.</PackageDescription>
+		<RepositoryUrl>https://github.com/MikyM/MikyM.Common.Domain</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<LangVersion>9</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="IdGen" Version="3.0.0" />
+	</ItemGroup>
+
+</Project>
