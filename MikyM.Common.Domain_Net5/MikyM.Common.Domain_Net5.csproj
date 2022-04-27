@@ -2,11 +2,11 @@
 
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
-		<PackageId>MikyM.Common.Domain</PackageId>
+		<PackageId>MikyM.Net5.Common.Domain</PackageId>
 		<Version>1.0.3</Version>
 		<Authors>Krzysztof Kupisz</Authors>
 		<PackageDescription>Base domain for DDD architecture.</PackageDescription>
-		<RepositoryUrl>https://github.com/MikyM/MikyM.Common.Domain</RepositoryUrl>
+		<RepositoryUrl>https://github.com/MikyM/MikyM.Net5.Common.Domain</RepositoryUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 		<LangVersion>9</LangVersion>
